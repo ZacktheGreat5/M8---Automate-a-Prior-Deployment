@@ -1,6 +1,9 @@
 # M8---Automate-a-Prior-Deployment
 The purpose of this repository is to demonstrate I can automate a deployment of an AWS S3 Bucket.
 
+Reflection can be found in the reflection folder.
+I couldn't get a screencast to work so I uploaded screenshots instead.
+Screenshots:
 <img src="screenshots/Screenshot 2026-11-01 151451.png">
 <img src="screenshots/Screenshot 2026-11-01 152021.png">
 <img src="screenshots/Screenshot 2026-11-01 152058.png">
